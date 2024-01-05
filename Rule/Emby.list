@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,emby.immtel.com
 DOMAIN-SUFFIX,emby.maying.club
 DOMAIN-SUFFIX,emby.mcwy.me
 DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN-SUFFIX,emby.misakaf.xyz
 DOMAIN-SUFFIX,emby.neko.edu.rs
 DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.nyancat.net
@@ -29,6 +30,7 @@ DOMAIN-SUFFIX,emby.vercode.asia
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,emby.xeton.dev
 DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,embyaz.misakaf.xyz
 DOMAIN-SUFFIX,embyserver.ga
 DOMAIN-SUFFIX,hinet.jmsooo.com
 DOMAIN-SUFFIX,jellyfin.xeton.dev
@@ -39,9 +41,11 @@ DOMAIN-SUFFIX,movie.xeton.dev
 DOMAIN-SUFFIX,ntt1.jmsooo.com
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,push-kr.misakaf.org
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
+IP-CIDR,102.223.180.108/24,no-resolve

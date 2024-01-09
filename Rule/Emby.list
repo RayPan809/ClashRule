@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,aws.jmsooo.com
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,cf1.jmsooo.com
 DOMAIN-SUFFIX,cf2.jmsooo.com
+DOMAIN-SUFFIX,cfde.xmsl.org
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,cristiamo.xyz
 DOMAIN-SUFFIX,emby.cjpc.cc
@@ -36,13 +37,16 @@ DOMAIN-SUFFIX,hinet.jmsooo.com
 DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,movie.xeton.dev
 DOMAIN-SUFFIX,ntt1.jmsooo.com
 DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,pm.xmsl.org
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,push-kr.misakaf.org
 DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,xmsl.org
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
